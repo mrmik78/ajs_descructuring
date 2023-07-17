@@ -1,6 +1,6 @@
 import getSpecial from '../base';
 
-test('testing function - specialAttack', () => {
+test('testing function - getSpecial', () => {
   const character = {
     name: 'Лучник',
     type: 'Bowman',
